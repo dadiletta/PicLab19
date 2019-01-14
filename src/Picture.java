@@ -1,4 +1,3 @@
-package app;
 
 import java.awt.*;
 import java.awt.font.*;

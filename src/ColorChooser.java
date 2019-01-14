@@ -1,4 +1,3 @@
-package app;
 
 import javax.swing.JColorChooser;
 import javax.swing.JFrame;
